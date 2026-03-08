@@ -14,4 +14,5 @@ A repository for learning GitHub.
 - ✈️ I love traveling
 - 🫟 I love being creative and drawing
 - 🎸 I play the guitar
-![Picture](https://github.com/user-attachments/assets/1dbe8058-db57-4bbd-b1e6-6f5ff0c02e48)
+![picture](https://github.com/user-attachments/assets/29529c20-83fd-4293-a3e0-b4c1614200a9)
+
